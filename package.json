@@ -2,6 +2,7 @@
   "name": "disalgados",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ruannicolini.github.io/DIS-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -58,6 +59,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "7.20.0",
     "eslint-plugin-react-hooks": "4",
+    "gh-pages": "^3.1.0",
     "prettier": "^2.0.5"
   }
 }
