@@ -30,6 +30,12 @@ export const Content = styled.div`
     margin-top: 30px;
     margin-bottom: 30px;
   }
+
+  @media (max-width: 750px) {
+    h1 {
+      font-size: 16px;
+    }
+  }
 `;
 
 export const LacoImg = styled.div`
