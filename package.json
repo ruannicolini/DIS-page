@@ -2,7 +2,7 @@
   "name": "disalgados",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.disalgados.com.br",
+  "homepage": "https://ruannicolini.github.io/DIS-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
